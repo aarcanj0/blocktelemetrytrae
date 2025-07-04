@@ -7,3 +7,4 @@ Adicione estas linhas no arquivo host:
   0.0.0.0   api.trae.ai
 ```
 
+se você tiver qualquer problema com o login, remova o ``` 0.0.0.0   api.trae.ai``` do arquivo hosts
